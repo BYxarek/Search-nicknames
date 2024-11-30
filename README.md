@@ -10,3 +10,12 @@
 4. The logs are sent to the client using SocketIO.
 
 If it is a GET request, the nickname input form and the log block are displayed.</pre>
+<pre>
+
+
+
+Install:
+1. <p>git clone https://github.com/BYxarek/Search-nicknames.git</p>
+2. <p>cd Search-nicknames</p>
+3. <p>pip install -r requirements.txt</p>
+</pre>
