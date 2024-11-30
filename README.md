@@ -15,7 +15,7 @@ If it is a GET request, the nickname input form and the log block are displayed.
 
 
 Install:
-1. <p>git clone https://github.com/BYxarek/Search-nicknames.git</p>
-2. <p>cd Search-nicknames</p>
-3. <p>pip install -r requirements.txt</p>
+1. git clone https://github.com/BYxarek/Search-nicknames.git
+2. cd Search-nicknames
+3. pip install -r requirements.txt
 </pre>
